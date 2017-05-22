@@ -14,7 +14,7 @@ import (
 const (
 	CFEventuallyTimeout  = 300 * time.Second
 	RealIsolationSegment = "persistent_isolation_segment"
-	PushCommandName      = "push"
+	PushCommandName      = "v2-push"
 )
 
 var (
