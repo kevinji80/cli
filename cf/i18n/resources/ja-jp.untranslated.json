@@ -1200,10 +1200,6 @@
     "translation": ""
   },
   {
-    "id": "{{.Bytes}} bytes downloaded...",
-    "translation": ""
-  },
-  {
     "id": "{{.MemorySize}} x {{.NumInstances}} instances",
     "translation": ""
   },
